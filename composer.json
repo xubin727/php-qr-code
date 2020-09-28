@@ -2,7 +2,7 @@
     "name": "autobin/php-qr-code",
     "description": "PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode. Based on libqrencode C library, provides API for creating QR Code barcode images (PNG, JPEG thanks to GD2).",
     "type": "library",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "license": "MIT",
     "authors": [
         {
@@ -22,7 +22,7 @@
     },
     "autoload": {
     	"psr-4": {
-	"autobin\\": "src/"
+	"Autobin\\PhpQrCode\\": "src/"
 	}
     }
 }
