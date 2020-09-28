@@ -1,5 +1,5 @@
 <?php
-namespace App\Pay\PhpQrCode;
+namespace Autobin\PhpQrCode;
 
 
 /*
